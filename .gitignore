@@ -22,3 +22,4 @@ __pycache__/
 _启动错误.log
 _ready.txt
 _verify_report.txt
+_gh_*
