@@ -1,0 +1,35 @@
+{
+  "initialized": false,
+  "storage": {
+    "data_dir": ""
+  },
+  "ai": {
+    "provider": "deepseek",
+    "base_url": "https://api.deepseek.com",
+    "model": "deepseek-flash",
+    "api_key": "",
+    "timeout": 60
+  },
+  "class": {
+    "class_id": "default",
+    "name": "",
+    "major": "",
+    "grade": "",
+    "head_teacher": "",
+    "phone": "",
+    "size_expect": 40
+  },
+  "semester": {
+    "name": "",
+    "start_date": "",
+    "total_weeks": 20,
+    "holidays": []
+  },
+  "term": 0,
+  "settings": {
+    "warn_fail_courses": 2,
+    "warn_score_drop": 10,
+    "leave_notify_parent": true,
+    "privacy_warn": false
+  }
+}
